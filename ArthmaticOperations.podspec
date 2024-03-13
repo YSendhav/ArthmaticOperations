@@ -79,7 +79,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   # 
 
-  spec.source       = { :git => "https://github.com/YSendhav/ArthmaticOperations.podspec.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/YSendhav/ArthmaticOperations.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
